@@ -35,7 +35,7 @@
 
 #define AVALON_TEMP_TARGET 50
 #define AVALON_TEMP_HYSTERESIS 3
-#define AVALON_TEMP_OVERHEAT 70
+#define AVALON_TEMP_OVERHEAT 79
 
 /* Avalon-based BitBurner. */
 #define BITBURNER_DEFAULT_CORE_VOLTAGE 1200 /* in millivolts */
